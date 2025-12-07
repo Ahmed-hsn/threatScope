@@ -11,7 +11,7 @@ import java.util.Base64;
 class VirusTotalClient {
 
     // Your API Key
-    private static final String API_KEY = "b5cb49b5079727b41737ed28ce7bdaa8d9c871af0f4eb9016d2cf2e9bd99e37b";
+    private static final String API_KEY = "API_KEY";
 
     public static boolean checkUrl(String urlToCheck) {
         try {
